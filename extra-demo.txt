@@ -1,0 +1,3 @@
+
+another link:
+https://wrightshq.com/playground/placing-multiple-markers-on-a-google-map-using-api-3/

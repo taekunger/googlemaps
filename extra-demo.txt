@@ -1,3 +1,8 @@
 
 another link:
+-------------
 https://wrightshq.com/playground/placing-multiple-markers-on-a-google-map-using-api-3/
+
+draw route line between multiple locations: 
+-------------------------------------------
+http://www.aspsnippets.com/Articles/Google-Maps-V3-Draw-route-line-between-two-geographic-locations-Coordinates-Latitude-and-Longitude-points.aspx
